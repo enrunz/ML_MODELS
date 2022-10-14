@@ -1,6 +1,19 @@
 ![IronHack Logo](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_d5c5793015fec3be28a63c4fa3dd4d55.png)
 
+![housing ](https://user-images.githubusercontent.com/105838147/195736352-d740efad-8d32-447c-a01e-f5acacfd44e6.jpeg)
+
+
 # Project: Statistical Analysis
+
+## HOUSING ML MODELS
+
+This project explores data about the housing market in Ames, Iowa. It explores, selects, transforms and creates several features to build Machine Learning models that can predict the price of housing. You can follow the Jupyter Notebook called CAT_VARIABLE_EVAL to understand how Categorical Variables were treated. Or you can follow the progress directly in the Jupyter Notebook called STATS_ANALYSIS_PROJECT. 
+
+You will find Linear Regressors and CatBoost models, both trained and tested. 
+
+Below you can also find the guidelines provided by Ironhack for this exercise. 
+
+
 
 ## Overview
 
